@@ -16,8 +16,9 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/maiconcentner)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/maiconcentner)
-
-
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/maiconcentner)
+[![Mathlab](https://img.shields.io/badge/mathlab-black?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
+[![VBA](https://img.shields.io/badge/vba-black?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
 
 <details>
 <p align="center">
