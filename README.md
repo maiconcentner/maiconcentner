@@ -20,7 +20,7 @@
 [![Mathlab](https://img.shields.io/badge/mathlab-black?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
 [![VBA](https://img.shields.io/badge/vba-black?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
 
-<details>
+
 <p align="center">
   <a href="https://github.com/maiconcentner">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiconcentner&theme=transparent" />
@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconcentner&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
+
 
 <p align="center">
   <a href="https://github.com/maiconcentner">
