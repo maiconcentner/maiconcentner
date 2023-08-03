@@ -12,11 +12,56 @@
 </p>
 
 ### Languages
-![Python](https://img.shields.io/badge/python-50%25-black?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/sql-20%25-black?style=for-the-badge&logo=mysql)
-![R](https://img.shields.io/badge/r-15%25-black?style=for-the-badge&logo=r)
-![Mathlab](https://img.shields.io/badge/matlab-10%25-black?style=for-the-badge&logo=mathlab)
-![VBA](https://img.shields.io/badge/vba-5%25-black?style=for-the-badge&logo=vba)
+
+<div>
+    <b>Python:</b>
+    <table>
+        <tr>
+            <td bgcolor="#f0db4f"><img src="https://via.placeholder.com/200x10/f0db4f"></td>
+            <td>50%</td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <b>SQL:</b>
+    <table>
+        <tr>
+            <td bgcolor="#4479A1"><img src="https://via.placeholder.com/200x10/4479A1"></td>
+            <td>20%</td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <b>R:</b>
+    <table>
+        <tr>
+            <td bgcolor="#276DC3"><img src="https://via.placeholder.com/200x10/276DC3"></td>
+            <td>15%</td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <b>Mathlab:</b>
+    <table>
+        <tr>
+            <td bgcolor="#0076A8"><img src="https://via.placeholder.com/200x10/0076A8"></td>
+            <td>10%</td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <b>VBA:</b>
+    <table>
+        <tr>
+            <td bgcolor="#866BBA"><img src="https://via.placeholder.com/200x10/866BBA"></td>
+            <td>5%</td>
+        </tr>
+    </table>
+</div>
 
 ### Dashboard
 <p align="center">
