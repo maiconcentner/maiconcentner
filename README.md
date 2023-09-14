@@ -37,7 +37,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maiconcentner&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconcentner&layout=compact&theme=vision-friendly-dark" alt="maiconcentner's most languages"/>
 </p>
 
