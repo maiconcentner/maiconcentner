@@ -37,7 +37,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconcentner&layout=compact&theme=vision-friendly-dark" alt="maiconcentner's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconcentner&layout=compact&theme=vision-friendly-dark" alt="maiconcentner's most languages" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(105%) contrast(100%);">
+
 </p>
 
 <br><br>
