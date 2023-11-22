@@ -19,31 +19,14 @@
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/maiconcentner)
 [![Mathlab](https://img.shields.io/badge/mathlab-black?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
 [![VBA](https://img.shields.io/badge/vba-black?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
 
-### Dashboard
-<p align="center">
-  <a href="https://github.com/maiconcentner">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiconcentner&theme=transparent" />
-  </a>
-  <a href="https://github.com/maiconcentner">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiconcentner&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/maiconcentner">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiconcentner&theme=transparent" />
-  </a>
- 
-</p>
+## 📊 My GitHub Stats
+![Maicon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconcentner&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
+![Maicon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconcentner&card_width=1060&layout=normal&theme=github_dark)
 
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconcentner&layout=compact&theme=vision-friendly-dark" alt="maiconcentner's most languages"/>
-
-<br><br>
-<p align="center">
-  <a href="https://github.com/maiconcentner">
-    <img src="https://komarev.com/ghpvc/?username=maiconcentner&color=blue&style=flat)" />
-  </a>
-</p>
+## 🏆 My GitHub Profile Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=maiconcentner&theme=onestar&margin-w=40&margin-h=20)](https://github.com/maiconcentner/github-profile-trophy)
 <!--
 
 - 🔭 I’m currently working on ...
