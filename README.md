@@ -15,11 +15,11 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python)](https://github.com/maiconcentner)
-[![SQL](https://img.shields.io/badge/sql-white?style=for-the-badge&logo=mysql)](https://github.com/maiconcentner)
-[![R](https://img.shields.io/badge/r-white?style=for-the-badge&logo=r)](https://github.com/maiconcentner)
-[![Mathlab](https://img.shields.io/badge/mathlab-white?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
-[![VBA](https://img.shields.io/badge/vba-white?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+[![SQL](https://img.shields.io/badge/sql-gray?style=for-the-badge&logo=mysql)](https://github.com/maiconcentner)
+[![R](https://img.shields.io/badge/r-gray?style=for-the-badge&logo=r)](https://github.com/maiconcentner)
+[![Mathlab](https://img.shields.io/badge/mathlab-gray?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
+[![VBA](https://img.shields.io/badge/vba-gray?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ## 📊 My GitHub Stats
 ![Maicon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconcentner&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
