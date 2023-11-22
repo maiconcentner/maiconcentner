@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! 👋
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -19,6 +19,7 @@
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/maiconcentner)
 [![Mathlab](https://img.shields.io/badge/mathlab-black?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
 [![VBA](https://img.shields.io/badge/vba-black?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ### Dashboard
 <p align="center">
