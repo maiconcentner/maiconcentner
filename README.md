@@ -16,7 +16,7 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python)](https://github.com/maiconcentner)
 [![R](https://img.shields.io/badge/r-gray?style=for-the-badge&logo=r)](https://github.com/maiconcentner)
-[![C#](https://img.shields.io/badge/c#-gray?style=for-the-badge&logo=c#)](https://github.com/maiconcentner)
+[![C](https://img.shields.io/badge/c#-gray?style=for-the-badge&logo=c#)](https://github.com/maiconcentner)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=blue)
 [![VBA](https://img.shields.io/badge/vba-gray?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
 [![Mathlab](https://img.shields.io/badge/mathlab-gray?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
