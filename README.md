@@ -15,11 +15,13 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python)](https://github.com/maiconcentner)
-[![Shiny](https://img.shields.io/badge/shiny-gray?style=for-the-badge&logo=python)](https://github.com/maiconcentner)
 [![R](https://img.shields.io/badge/r-gray?style=for-the-badge&logo=r)](https://github.com/maiconcentner)
-[![Mathlab](https://img.shields.io/badge/mathlab-gray?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
-[![VBA](https://img.shields.io/badge/vba-gray?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=blue)
+[![C#](https://img.shields.io/badge/c#-gray?style=for-the-badge&logo=c#)](https://github.com/maiconcentner)
+[![VBA](https://img.shields.io/badge/vba-gray?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
+[![Mathlab](https://img.shields.io/badge/mathlab-gray?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
+
+
 
 ## 📊 My GitHub Stats
 ![Maicon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconcentner&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
