@@ -17,7 +17,6 @@
 [![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python)](https://github.com/maiconcentner)
 [![R](https://img.shields.io/badge/r-gray?style=for-the-badge&logo=r)](https://github.com/maiconcentner)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=blue)
-<img align="center" alt="Thomas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 [![VBA](https://img.shields.io/badge/vba-gray?style=for-the-badge&logo=vba)](https://github.com/maiconcentner)
 [![Mathlab](https://img.shields.io/badge/mathlab-gray?style=for-the-badge&logo=mathlab)](https://github.com/maiconcentner)
 
